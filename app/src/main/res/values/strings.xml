@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hyre</string>
+    <string name="applicant">APPLICANT</string>
+    <string name="recruiter">RECRUITER</string>
+    <string name="applicant_welcome">Welcome to Applicant Dashboard</string>
+    <string name="recruiter_welcome">Welcome to Recruiter Dashboard</string>
+    <string name="login">Login</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="back">Back</string>
+</resources>
