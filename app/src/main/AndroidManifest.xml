@@ -23,6 +23,13 @@
         </activity>
         <activity android:name=".ApplicantActivity" />
         <activity android:name=".RecruiterActivity" />
+        <activity android:name=".ApplicantDashboardActivity" />
+        <activity android:name=".RecruiterDashboardActivity" />
+        <activity android:name=".AddPostActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".EditProfileActivity" />
+        <activity android:name=".MailActivity" />
+        <activity android:name=".ChatActivity" />
     </application>
 
 </manifest>
